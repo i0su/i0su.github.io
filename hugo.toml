@@ -1,0 +1,9 @@
+baseURL = 'https://i0su.github.io'
+languageCode = 'en-us'
+title = 'i0sus blog'
+theme = 'PaperMod'
+
+[params]
+  showReadingTime = true
+  showToc = true
+  defaultTheme = "dark"
